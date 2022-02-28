@@ -4,9 +4,14 @@
 
 body{
     font-family: sans-serif;
+    color: #fff;
+    background-color: black;
 }
 
 a{
     text-decoration: none;
 }
 
+ul{
+    list-style: none;
+}
